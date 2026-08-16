@@ -4,7 +4,7 @@
 --
 -- Goal: explore the cleaned dataset and identify useful patterns,
 -- trends, concentrations and unusual observations.
-
+-- Additional analysis focuses on time-based and company-level trends.
 USE world_layoffs;
 
 -- ============================================================
